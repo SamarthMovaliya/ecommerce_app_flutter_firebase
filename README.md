@@ -46,8 +46,8 @@ This is a app made using flutter firebase which gives you entering credentials f
 
 
 ## About it
- 1) This App will give you facility to convert any currency of the world.
-2) This also gives you forex previling market rate based on USD.
+ 1) This App will give you facility to add to cart and add to favourite.
+2) This also give you to enter in app with credentials and userImage using firebaseStorage.
 
 
 
@@ -80,10 +80,11 @@ This app is created in flutter SDK using Android Studio, basically this can be r
 ## Features
 
 - Splashscreen
+- introscreen
+- add to cart facility
+- add to favourite facility
+- user image upload facility using Firebase Storage
 - Light and Dark Mode
-- List of Foreign Exchange rate as per country
-- Any currency to Any currency conversion
-- all rates as per base rate USD
 
 
 ## 🚀 About Me
