@@ -109,7 +109,11 @@ For support, email samarthmovaliya1@gmail.com.
 ## Appication Preview GIF
 
 
-https://user-images.githubusercontent.com/121867874/235221749-f481a710-c18c-4be0-b56b-d6bd5600e451.mp4
+
+https://github.com/SamarthMovaliya/ecommerce_app_flutter_firebase/assets/121867874/d39ecf79-6abf-4670-adb9-364c57fca9fa
+
+
+
 
 
 
